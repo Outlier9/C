@@ -1,0 +1,8 @@
+﻿  test.c
+D:\C C++\VS2019\gitee\test\11_6\11_6\test.c(8,23): warning C4047: “函数”:“int”与“char [2]”的间接级别不同
+D:\C C++\VS2019\gitee\test\11_6\11_6\test.c(8,20): warning C4024: “islower”: 形参和实参 1 的类型不同
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  11_6.vcxproj -> D:\C C++\VS2019\gitee\test\11_6\x64\Release\11_6.exe

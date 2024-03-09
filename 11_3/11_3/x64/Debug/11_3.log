@@ -1,0 +1,16 @@
+﻿  test.c
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(45,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(45,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(46,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(46,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(47,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(47,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(48,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(48,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(49,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(49,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(50,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(50,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\11_3\11_3\test.c(51,9): message : 请考虑在格式字符串中使用“%zd”
+  11_3.vcxproj -> D:\C C++\VS2019\gitee\test\11_3\x64\Debug\11_3.exe

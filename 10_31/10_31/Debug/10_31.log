@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C C++\VS2019\gitee\test\10_31\10_31\test.c(23,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\C C++\VS2019\gitee\test\10_31\10_31\test.c(24,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  10_31.vcxproj -> D:\C C++\VS2019\gitee\test\10_31\Debug\10_31.exe

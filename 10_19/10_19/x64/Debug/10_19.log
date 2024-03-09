@@ -1,0 +1,10 @@
+﻿  10_19.cpp
+D:\C C++\VS2019\gitee\test\10_19\10_19\10_19.cpp(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\10_19\10_19\10_19.cpp(19,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\10_19\10_19\10_19.cpp(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\10_19\10_19\10_19.cpp(20,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\10_19\10_19\10_19.cpp(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\10_19\10_19\10_19.cpp(21,9): message : 请考虑在格式字符串中使用“%zd”
+D:\C C++\VS2019\gitee\test\10_19\10_19\10_19.cpp(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C C++\VS2019\gitee\test\10_19\10_19\10_19.cpp(22,9): message : 请考虑在格式字符串中使用“%zd”
+  10_19.vcxproj -> D:\C C++\VS2019\gitee\test\10_19\x64\Debug\10_19.exe

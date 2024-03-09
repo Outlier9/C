@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C C++\VS2019\gitee\test\11_10\11_10\test.c(188,12): warning C4047: “return”:“int”与“void *”的间接级别不同
+  11_10.vcxproj -> D:\C C++\VS2019\gitee\test\11_10\Debug\11_10.exe

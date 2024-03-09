@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C C++\VS2019\gitee\test\11_17\11_17\test.c(273): warning C4172: 返回局部变量或临时变量的地址: p
+  11_17.vcxproj -> D:\C C++\VS2019\gitee\test\11_17\Debug\11_17.exe

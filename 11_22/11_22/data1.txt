@@ -1,0 +1,33 @@
+//文件的拷贝
+int main()
+{
+	FILE* pfread = fopen("data1.txt", "r");
+	if (pfread == NULL)
+	{
+		perror("fopen-1");
+		return 1;
+
+	}
+	FILE* pfwrite = fopen("data2.txt", "w");
+	if (pfwrite == NULL)
+	{
+		perror("fopen-2");
+		fclose(pfread);
+		pfread = NULL;
+		return 1;
+	}
+
+	//读文件 - 写文件
+	int ch = 0;
+	while ((ch = fgetc(pfread)) != EOF)
+	{
+		fputc(ch, pfwrite);
+	}
+
+	//关闭文件
+	fclose(pfread);
+	pfread = NULL;
+	fclose(pfwrite);
+	pfwrite = NULL;
+	return 0;
+}
